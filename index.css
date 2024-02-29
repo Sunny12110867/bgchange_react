@@ -4,18 +4,3 @@
 
 
 
-.box{
-  margin: 12cm 9.5cm;
-  column-gap: 1cm;
-  display: flex;
-  background-color: rgb(255, 255, 255);
-  padding: 0.5cm 0.5cm 0.5cm 0.5cm ;
-  font-size: large;
-
-}
-
-.box button{
-  padding: 20px;
-  border-radius: 15px;
-  
-}
